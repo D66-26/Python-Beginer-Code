@@ -1,0 +1,9 @@
+#File Io basic
+
+"r" - Open file for reading - default
+"w" - Open file for writing
+"x" - Creates file if not exist
+"a" - add more content to a file
+"t" - text mode - default
+"b" - binary mode
+"+" - read and write
